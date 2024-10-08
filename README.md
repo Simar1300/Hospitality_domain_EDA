@@ -68,7 +68,7 @@ If you encounter any issues with running the project or have questions about the
 
 ## Contributors and Maintainers
 
-- **Project Maintainer:** Your Name (simarchawla767.email@example.com)
+- **Project Maintainer:** Simarpreet Chawla (simarchawla767@gmail.com)
 - **Contributors:** Open for contributions! Feel free to submit pull requests or open issues for discussions on improvements.
 
 ---
